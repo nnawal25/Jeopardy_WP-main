@@ -1,0 +1,173 @@
+body{
+    background: #060ce9;
+}
+
+#qbox{
+    display: flex;
+    border: solid black 5px;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    align-content: center;
+
+}
+
+.centertext{
+    text-align: center;
+    align-self: center;
+}
+
+#colm1{
+    column-span: initial;
+    break-inside: avoid;
+    float: left;
+}
+
+.earnings{
+    border: solid black 4px;
+    font-size: 32px;
+    color: white;
+    width: 200px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+#maincontainer{
+padding: 10px;
+height: 680px;
+flex: 1;
+align-items: stretch;
+
+}
+
+.row{
+height: 96px;
+flex: none;
+display: flex;
+box-sizing: border-box;
+width: 100%;
+
+}
+
+.cellgrid{
+    border: 3px solid black;
+    overflow: hidden;
+    position: relative;
+    background-color: #115ff4;
+    flex: 1;
+    
+}
+
+.cellgrid:hover{
+    border: solid yellow;
+}
+
+.cell{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+
+}
+
+#heading{
+    color:#f0cf18;
+}
+
+.cellinner{
+    font-size: 32px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.butt {
+    border: transparent;
+    background-color: transparent;
+    display: block;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    font-size: 32px;
+    color: white;
+}
+
+#quesarea{
+    font-size: 70;
+    color: white;
+}
+
+#questioncontainer{
+    height: 75%;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    background-color: #115ff4;
+    justify-content: center;
+    contain: content;
+    margin-bottom: 30px;
+    
+}
+
+#buttonbanner{
+    background: #060ce9;
+    width: 100%;
+    height: 5%;
+    display: flex;
+}
+
+.rbannerbutton{
+    text-align: right;
+}
+
+.teamscore{
+    height: 100px;
+    background-color: yellow;
+}
+
+.pointgive{
+    border:solid black 1px;
+    font-size: 19px;
+    color: white;
+    background: #060ce9;
+}
+
+.pointgive:hover{
+    border:solid yellow 1px;
+}
+
+.leadbox {
+       height: 120px;
+       background-color: #115ff4;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin-bottom: 10px;
+       margin-top: 90px;
+       contain: content;
+       font-size: 90px;
+  }
+  
+  .box a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+  }
+
+.pointlose{
+    border:solid black 1px;
+    font-size: 19px;
+    color: white;
+    background: red;
+}
+
+.pointlose:hover{
+    border:solid yellow 1px;
+}

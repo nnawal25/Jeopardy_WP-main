@@ -1,0 +1,63 @@
+	
+
+
+11;100;CSS stands for C________ S________ S________;Cascading Style Sheet
+
+12;200;External Style Sheets define how to d______ HTML elements and can save a lot of manual work when creating a website.;Display
+
+13;300;How do you do a CSS comment?;/* This is a CSS comment */
+
+14;400;What are the different elements/layers of the "box" model; Area padding border and margin
+
+15;500;What are the three ways to include CSS in your webpage?;Inline Internal Linking to an external stylesheet
+
+
+
+21;100;HTML is short for H______t_____ M_______ L_________;Hypertext Mark-up Language
+
+22;200;What is the HTML element for the largest heading?;&lth1&gt
+
+23;300;To link a style sheet to a Web page; the tag must use "____________________" as the value for the rel property?;stylesheet
+
+24;400;Where is the meta tag only found?;The home page
+
+25;500;What should values always be enclosed in?;Quotation marks
+
+
+
+31;100; &ltbr/&gt What type of tag is this?;Break tag
+
+32;200;What is the difference between an opening tag and a closing tag?;Closing tag has a / in front
+
+33;300;Do all HTML tags have an end tag?;No
+
+34;400;Which HTML tag is used to display the data in the tabular form?;The HTML table tag
+
+35;500;Are the HTML tags and elements the same thing?;No
+
+
+
+41;100;T/F document.get Element By Id is a DOM command?;F
+
+42;200;What command can be used to change a HTML's button attribute?;document.setAttribute
+
+43;300;T/F We can have a loop inside another loop?;T
+
+44;400;JavaScript requires you to use this keyword to declare a local variable;var
+
+45;500;What is === operator?;The strict equality operator that returns true when the two operands have the same value without conversion.
+
+
+
+
+51;100;When does this class meet?;Monday and Wednesday
+
+52;200;What is the professor's name?;Henry Louis
+
+53;300;What is the TA's name?;Prakash Chourish
+
+54;400;T/F does the professor also teach CSC 1301?;True
+
+55;500;What is the professor's favorite phrase to use in his code during class?;Gucci Money
+
+
